@@ -1,0 +1,17 @@
+[
+  {
+    "name": "healthy",
+    "failure_rate": 0,
+    "latency_ms": 35
+  },
+  {
+    "name": "outage",
+    "failure_rate": 1,
+    "latency_ms": 100
+  },
+  {
+    "name": "recovery",
+    "failure_rate": 0,
+    "latency_ms": 35
+  }
+]
